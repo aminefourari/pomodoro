@@ -26,7 +26,7 @@ Download the latest `.dmg` from [Releases](../../releases)
 ### Build from Source
 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/pomodoro.git
+git clone https://github.com/aminefourari/pomodoro.git
 cd pomodoro
 ```
 
