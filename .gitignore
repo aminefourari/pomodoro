@@ -1,0 +1,38 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcworkspace
+!default.xcworkspace
+xcuserdata/
+
+# macOS
+.DS_Store
+*.swp
+*~.nib
+
+# Build products
+*.app
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Archives
+*.dmg
+*.pkg
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+.build/
+Packages/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
